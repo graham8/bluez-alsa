@@ -1,0 +1,4 @@
+# list of bluetooth audio devices
+# use the BT MAC, type is required, hint is optional
+# example:
+# pcm.bluealsa_12_34_56_78_9A_BC {type pcm hint { show on description "Some BT speaker"}}
